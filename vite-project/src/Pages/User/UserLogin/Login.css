@@ -47,7 +47,9 @@
                     border: none;
                     border-bottom: 2px solid #7e7d7d;
                 }
+                
                 svg{
+                    top: 0px;
                     font-size: 20px;
                     right: 5px;
                     color: #7e7d7d;
